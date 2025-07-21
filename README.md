@@ -30,6 +30,6 @@
 
 ---
 
-It features responsive UI, routing between Home and Favourites,<br> real-time data fetching, pagination, and favourites management using Context API.<br> The app uses modular components, secure API key handling via .env, and efficient performance powered by Vite<br>. Clean and scalable structure included.
+It features responsive UI, routing between Home and Favourites,<br> real-time data fetching, pagination, and favourites management using Context API.<br> The app uses modular components, secure API key handling via .env, and efficient performance powered by Vite.<br> Clean and scalable structure included.
 
 ---
