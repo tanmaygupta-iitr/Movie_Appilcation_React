@@ -1,12 +1,35 @@
-# React + Vite
+# 📽️ MovieFlix – React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MovieFlix** is a React-based movie explorer built using the TMDB API.<br> It helped me practice and apply modern React development concepts including<br> component-based architecture, state management, and real-world API integration<br>. The app uses **Vite** for lightning-fast builds and development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 💡 Skills Learned
 
-## Expanding the ESLint configuration
+- ✅ **Functional components & JSX syntax**
+- ✅ **Props & component reusability**
+- ✅ **React Router (v6+)** for page navigation
+- ✅ **Context API** for global state management
+- ✅ **Hooks**: `useState`, `useEffect`, and `useContext`
+- ✅ **Conditional rendering** for async data and UI states
+- ✅ **API integration** with error handling and pagination
+- ✅ **Environment variable setup** with `.env` and `VITE_` prefix
+- ✅ **Folder structure optimization** for scalability
+- ✅ **Responsive UI** using modular CSS
+- ✅ **Git & GitHub** workflows with conflict resolution
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🛠 Tech Stack
+
+- React + Vite  
+- TMDB API  
+- Context API  
+- CSS Modules  
+- Git & GitHub  
+
+---
+
+It features responsive UI, routing between Home and Favourites,<br> real-time data fetching, pagination, and favourites management using Context API.<br> The app uses modular components, secure API key handling via .env, and efficient performance powered by Vite<br>. Clean and scalable structure included.
+
+---
